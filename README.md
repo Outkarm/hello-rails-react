@@ -4,7 +4,7 @@
   <img src="logo.PNG" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>Microverse README Template</b></h3>
+  <h3><b>Koy Outkarm</b></h3>
 </div>
 
 # 📗 Table of Contents
