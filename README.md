@@ -64,13 +64,13 @@ Hello Rails React is a sample Rails application that integrates React for fronte
 - **React Router for frontend routing**
 - **API endpoint for random greetings**
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!-- <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://your-app-demo-url.com)
+- [Live Demo Link](https://your-app-demo-url.com) -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
